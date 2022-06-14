@@ -1,0 +1,3 @@
+echo finish
+date
+month of happiness
